@@ -131,7 +131,14 @@ data_loader::clear_cache();
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
-| GET | `/` | Welcome message |
+| GET | `/` | Homepage |
+| GET | `/products` | Products overview page |
+| GET | `/demo` | Demo hub page |
+| GET | `/extensions` | Extensions demo page |
+| GET | `/mobile-apps` | Mobile apps demo page |
+| GET | `/data-analytics` | Data analytics demo page |
+| GET | `/sample-contract` | Sample contract PDF page |
+| GET | `/sample-contract-pdf` | PDF-only sample contract viewer |
 | GET | `/health` | Health check with timestamp |
 | GET | `/api/data/:path` | Load data file from data folder |
 
