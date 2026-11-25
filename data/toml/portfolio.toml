@@ -1,0 +1,27 @@
+[site]
+title = "Kreatives"
+description = "A beautiful static website"
+language = "en"
+timezone = "UTC"
+
+[author]
+name = "Your Name"
+email = "your.email@example.com"
+website = "https://kreatives.dev"
+
+[social]
+twitter = "https://twitter.com"
+github = "https://github.com"
+linkedin = "https://linkedin.com"
+
+[[projects]]
+title = "Project 1"
+description = "An amazing project"
+url = "https://example.com"
+tags = ["web", "design"]
+
+[[projects]]
+title = "Project 2"
+description = "Another great project"
+url = "https://example.com"
+tags = ["development", "backend"]

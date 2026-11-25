@@ -1,0 +1,23 @@
+{
+  "site_title": "Kreatives",
+  "site_description": "A beautiful static website",
+  "features": [
+    {
+      "name": "Fast",
+      "description": "Built with Leptos for optimal performance",
+      "icon": "⚡"
+    },
+    {
+      "name": "Static",
+      "description": "Pre-generated HTML for maximum security",
+      "icon": "🔒"
+    },
+    {
+      "name": "Data-Driven",
+      "description": "Load data from JSON, TOML, and YAML",
+      "icon": "📊"
+    }
+  ],
+  "author": "Your Name",
+  "created_at": "2026-11-24"
+}

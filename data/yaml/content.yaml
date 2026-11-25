@@ -1,0 +1,41 @@
+site:
+  name: Kreatives
+  tagline: Building beautiful web experiences
+  
+blog_posts:
+  - title: Getting Started with Leptos
+    slug: getting-started-leptos
+    date: 2026-11-20
+    tags:
+      - leptos
+      - rust
+      - web
+    excerpt: Learn how to build blazing fast web applications with Leptos
+    
+  - title: Static Site Generation
+    slug: static-site-generation
+    date: 2026-11-18
+    tags:
+      - static
+      - performance
+      - web
+    excerpt: Discover why static sites are making a comeback
+    
+  - title: Data-Driven Design
+    slug: data-driven-design
+    date: 2026-11-15
+    tags:
+      - data
+      - design
+      - patterns
+    excerpt: Use structured data to power your website design
+
+services:
+  - name: Web Design
+    description: Beautiful and responsive web design
+    
+  - name: Development
+    description: Full-stack web application development
+    
+  - name: Consulting
+    description: Technical consulting for your projects

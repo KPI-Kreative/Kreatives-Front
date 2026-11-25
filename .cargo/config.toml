@@ -1,0 +1,14 @@
+[alias]
+# Common development commands
+dev = "run"
+build-release = "build --release"
+test-all = "test --all"
+
+[build]
+# Parallel compilation for faster builds
+jobs = 4
+
+[term]
+# Color output
+color = "auto"
+verbose = false
